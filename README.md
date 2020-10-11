@@ -1,4 +1,4 @@
-# Tutoriales, Charlas Plenarias, Presentaciones y Pósters LatinR 2019
+# Tutoriales, Charlas Plenarias, Presentaciones y Pósters LatinR 2020
 
 ## Presentaciones plenarias
 
@@ -11,7 +11,7 @@ _I'll plan to talk about my experiences learning new data science skills on my o
 ### Blogueo con R Markdown por Maëlle Salmon
 
 
-[Slides]() - [Video]() - [Material]()
+[Slides](https://bloguearrr.netlify.app/intro/slides/#/) - [Video]() - [Material](https://bloguearrr.netlify.app/intro/)
 
 Eres un usuari@ de R y querrías compartir más contenido en linea? Porqué no crear un nuevo blog, con R Markdown (Rmd)? En esta charla-taller de 2 horas con demonstración en vivo, tendremos dos adventuras:
 
