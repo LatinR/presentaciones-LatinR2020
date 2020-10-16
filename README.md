@@ -15,7 +15,7 @@ _I'll plan to talk about my experiences learning new data science skills on my o
 ### Blogueo con R Markdown por Maëlle Salmon
 
 
-[Slides](https://bloguearrr.netlify.app/intro/slides/#/) - [Video]() - [Material](https://bloguearrr.netlify.app/intro/starters/)
+[Slides](https://bloguearrr.netlify.app/intro/slides/#/) - [Video](https://youtu.be/UYvSv8StDa8?t=800) - [Material](https://bloguearrr.netlify.app/intro/starters/)
 
 Eres un usuari@ de R y querrías compartir más contenido en linea? Porqué no crear un nuevo blog, con R Markdown (Rmd)? En esta charla-taller de 2 horas con demonstración en vivo, tendremos dos adventuras:
 
