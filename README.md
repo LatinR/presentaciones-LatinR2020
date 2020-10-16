@@ -1,5 +1,8 @@
 # Tutoriales, Charlas Plenarias, Presentaciones y Pósters LatinR 2020
 
+1. [Presentaciones plenarias](#Presentaciones plenarias)
+2. [Contribuciones](#Contribuciones)
+3. [Tutoriales](#Tutoriales)
 ## Presentaciones plenarias
 
 ### Learning without a net by Alison Presmanes Hill
@@ -22,6 +25,6 @@ Eres un usuari@ de R y querrías compartir más contenido en linea? Porqué no c
 Nos preparamos para estas aventuras definiendo lo que queremos de un blog Rmd. Acabaremos el curso reflecionando sobre cada aventura y explicando caminos futuros, por ejemplo cómo hacer la publicidad de tu blog. Si todo va bien al final del curso te sentirás capaz de crear un blog Rmd con el paquete que prefieras, y sabrás donde encontrar más recursos.
 
 
-## Trabajos contribuidos
+## Contribuciones
 
 ## Tutoriales
