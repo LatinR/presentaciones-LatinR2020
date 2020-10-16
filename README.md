@@ -71,3 +71,6 @@ Nos preparamos para estas aventuras definiendo lo que queremos de un blog Rmd. A
 
 
 ## Tutoriales
+
+En [esta página](https://github.com/LatinR/talleres-2020) se encuentra en listado de los nueve tutoriales que se dictaron en el marco de LatinR hosteados por diferentes capítulos de R-Ladies y Grupos de Usuarios de Latinoamérica.
+
