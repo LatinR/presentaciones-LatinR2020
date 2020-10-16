@@ -22,7 +22,6 @@ Eres un usuari@ de R y querrías compartir más contenido en linea? Porqué no c
    * Crear un blog Rmd con el paquete Distill
    * Crear un blog Rmd con el paquete hugodown
 
-
 Nos preparamos para estas aventuras definiendo lo que queremos de un blog Rmd. Acabaremos el curso reflecionando sobre cada aventura y explicando caminos futuros, por ejemplo cómo hacer la publicidad de tu blog. Si todo va bien al final del curso te sentirás capaz de crear un blog Rmd con el paquete que prefieras, y sabrás donde encontrar más recursos.
 
 
@@ -32,31 +31,31 @@ Nos preparamos para estas aventuras definiendo lo que queremos de un blog Rmd. A
 
 * [MinaR los discuRsos pResidenciales](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_13.pdf).	Juan Pablo Ruiz Nicolini, Lucas Enrich y Camila Higa.
 * [Leyendo todas las noticias del mundo con R (and friends)](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_19.pdf).	Brenda Walter y Antonio Vazquez Brust. 
-* Taquigráficos. Análisis de discursos políticos de la Legislatura porteña con R.	Sofía Santamarina y Manuel Zapico.
+* [Taquigráficos. Análisis de discursos políticos de la Legislatura porteña con R](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_29.pdf).	Sofía Santamarina y Manuel Zapico.
 * [Avaliação da transparência em atas de reuniões dos Comitês de Bacias Hidrográficas na Macrometrópole Paulista (Brasil)](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_16.pdf).	Beatriz Milz.
 
 ### Sesión Desarrollo de paquetes
 
-* latinr en LatinR: automatizando el envío de trabajos a conferencias de R con un paquete de R.	Elio Campitelli
-* [geouy: Acceso a las geometrías de Uruguay](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_7.pdf).	Richard Detomasi
-* Una librería para procesar datos públicos. Presentación del paquete eph.	Germán Rosati, Diego Kozlowski, Pablo Tiscornia, Guido Weksler and Natsumi Shokida
-* {polAr}: Política Argentina Usando R. 	Juan Pablo Ruiz Nicolini
-* desuctools: paquete con funciones y bases de datos para análisis de encuestas sociales.	Cristián Ayala and Cristina Marchant
+* latinr en LatinR: automatizando el envío de trabajos a conferencias de R con un paquete de R.	Elio Campitelli.
+* [geouy: Acceso a las geometrías de Uruguay](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_7.pdf).	Richard Detomasi.
+* Una librería para procesar datos públicos. Presentación del paquete eph.	Germán Rosati, Diego Kozlowski, Pablo Tiscornia, Guido Weksler y Natsumi Shokida.
+* [{polAr}: Política Argentina Usando R](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_34.pdf). Juan Pablo Ruiz Nicolini.
+* desuctools: paquete con funciones y bases de datos para análisis de encuestas sociales.	Cristián Ayala y Cristina Marchant.
 
 ### Sesión Shiny y visualización de datos
 
-* Diseñando visualizaciones atractivas e informativas: el caso de {ggplot} y {highcharter}.	Mariana Villamizar Rodríguez, Juan Pablo Marín Díaz y Camila Achuri
-* Seguimiento diario de la producción científica sobre COVID-19.	Juan Pablo Sokil
-* Creando componentes de Javascript personalizados para Shiny: Cómo se creó el paquete {shinyinvoer}.	David Daza, Camila Achuri y Juan Pablo Marin Diaz
-* Cómo usar R con tidyverse para la lucha anti-corrupción.	Juliana Galvis, Camila Achuri y Juan Pablo Marin Diaz
+* [Diseñando visualizaciones atractivas e informativas: el caso de {ggplot} y {highcharter}](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_32.pdf).	Mariana Villamizar Rodríguez, Juan Pablo Marín Díaz y Camila Achuri
+* [Seguimiento diario de la producción científica sobre COVID-19](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_30.pdf).	Juan Pablo Sokil
+* [Creando componentes de Javascript personalizados para Shiny: Cómo se creó el paquete {shinyinvoer}](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_33.pdf).	David Daza, Camila Achuri y Juan Pablo Marin Diaz
+* [Cómo usar R con tidyverse para la lucha anti-corrupción](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_36.pdf).	Juliana Galvis, Camila Achuri y Juan Pablo Marin Diaz
 * ["#TuitómetroNacional"](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_12.pdf).	Juan Pablo Ruiz Nicolini y Camila Higa
 
 ### Sesión Aplicaciones con datos educativos y políticas sociales
 
-* [Aplicaciones de R al estudio de enseñanza universitaria: el caso de la Facultad de Ingeniería](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_17.pdf).	Daniel Alessandrini, Martín Pratto Burgos and Fernando Fernández Barreiro
-* R para el monitoreo de políticas sociales.	Elina Gomez and Sofía Harley
-* Registros de Moodle para el seguimientos de actividad estudiantil y diseño de estrategias educativas.	Ignacio Alcántara, Pablo Bobadilla, Claudia Borlido, Paola Cabral, José Passarini and Nicole Rosenstock
-* Análise preditiva do desempenho dos alunos do curso de pedagogia no âmbito da educação à distância no ENADE.	Natan Borges and Ranah Costa
+* [Aplicaciones de R al estudio de enseñanza universitaria: el caso de la Facultad de Ingeniería](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_17.pdf).	Daniel Alessandrini, Martín Pratto Burgos y Fernando Fernández Barreiro
+* [R para el monitoreo de políticas sociales](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_28.pdf).	Elina Gomez y Sofía Harley
+* Registros de Moodle para el seguimientos de actividad estudiantil y diseño de estrategias educativas.	Ignacio Alcántara, Pablo Bobadilla, Claudia Borlido, Paola Cabral, José Passarini y Nicole Rosenstock
+* Análise preditiva do desempenho dos alunos do curso de pedagogia no âmbito da educação à distância no ENADE.	Natan Borges y Ranah Costa
 
 ### Sesión Datos espaciales
 
@@ -66,7 +65,7 @@ Nos preparamos para estas aventuras definiendo lo que queremos de un blog Rmd. A
 
 ### Sesión Modelos y aplicaciones
 
-* Ventajas del análisis de redes para optimizar la vigilancia y control de Brucelosis bovina en la Argentina.	Alarcón Laura, Marcos Andrea, Grave Emiliano, Hard Jorge, Cipriotti Pablo
+* [Ventajas del análisis de redes para optimizar la vigilancia y control de Brucelosis bovina en la Argentina](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_26.pdf).	Alarcón Laura, Marcos Andrea, Grave Emiliano, Hard Jorge, Cipriotti Pablo
 * Análise de sensibilidade de respostas de contagem.	Alejandra Tapia Silva
 * [R en Temas de Industria](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_14.pdf).	Irma Noemi No, Andrés Redchuk, Luis Alberto Orlandi and Julián Eloy Tornillo
 
