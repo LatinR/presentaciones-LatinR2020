@@ -1,9 +1,10 @@
 # Tutoriales, Charlas Plenarias, Presentaciones y Pósters LatinR 2020
 
-1. [Presentaciones plenarias](#Presentaciones plenarias)
+1. [Presentaciones plenarias](#Presentaciones)
 2. [Contribuciones](#Contribuciones)
 3. [Tutoriales](#Tutoriales)
-## Presentaciones plenarias
+
+## Presentaciones
 
 ### Learning without a net by Alison Presmanes Hill
 
