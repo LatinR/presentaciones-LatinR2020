@@ -36,11 +36,11 @@ Nos preparamos para estas aventuras definiendo lo que queremos de un blog Rmd. A
 
 ### Sesión Desarrollo de paquetes
 
-* latinr en LatinR: automatizando el envío de trabajos a conferencias de R con un paquete de R.	Elio Campitelli.
+* [latinr en LatinR: automatizando el envío de trabajos a conferencias de R con un paquete de R](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_52.pdf).	Elio Campitelli.
 * [geouy: Acceso a las geometrías de Uruguay](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_7.pdf).	Richard Detomasi.
-* Una librería para procesar datos públicos. Presentación del paquete eph.	Germán Rosati, Diego Kozlowski, Pablo Tiscornia, Guido Weksler y Natsumi Shokida.
+* [Una librería para procesar datos públicos. Presentación del paquete eph](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_53.pdf).	Germán Rosati, Diego Kozlowski, Pablo Tiscornia, Guido Weksler y Natsumi Shokida.
 * [{polAr}: Política Argentina Usando R](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_34.pdf). Juan Pablo Ruiz Nicolini.
-* desuctools: paquete con funciones y bases de datos para análisis de encuestas sociales.	Cristián Ayala y Cristina Marchant.
+* [desuctools: paquete con funciones y bases de datos para análisis de encuestas sociales](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_39.pdf).	Cristián Ayala y Cristina Marchant.
 
 ### Sesión Shiny y visualización de datos
 
@@ -54,19 +54,19 @@ Nos preparamos para estas aventuras definiendo lo que queremos de un blog Rmd. A
 
 * [Aplicaciones de R al estudio de enseñanza universitaria: el caso de la Facultad de Ingeniería](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_17.pdf).	Daniel Alessandrini, Martín Pratto Burgos y Fernando Fernández Barreiro
 * [R para el monitoreo de políticas sociales](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_28.pdf).	Elina Gomez y Sofía Harley
-* Registros de Moodle para el seguimientos de actividad estudiantil y diseño de estrategias educativas.	Ignacio Alcántara, Pablo Bobadilla, Claudia Borlido, Paola Cabral, José Passarini y Nicole Rosenstock
-* Análise preditiva do desempenho dos alunos do curso de pedagogia no âmbito da educação à distância no ENADE.	Natan Borges y Ranah Costa
+* [Registros de Moodle para el seguimientos de actividad estudiantil y diseño de estrategias educativas](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_40.pdf).	Ignacio Alcántara, Pablo Bobadilla, Claudia Borlido, Paola Cabral, José Passarini y Nicole Rosenstock
+* [Análise preditiva do desempenho dos alunos do curso de pedagogia no âmbito da educação à distância no ENADE](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_42.pdf).	Natan Borges y Ranah Costa
 
 ### Sesión Datos espaciales
 
-* Uso de R  e imágenes satelitales para la generación de modelos predictivos y caracterización de plantaciones forestales.	Matías Gaute, Teresa Boca, Hugo Fassola, Ernesto Andenmatten.
-* Optimización de parámetros geoestadísticos para interpolación de lluvia para uso en el sector agropecuario.	Adrián Cal, Guadalupe Tiscornia.
-* Integración de herramientas SIG, bases de datos, R espacial, Rmarkdown en la automatización de informes periódicos de la información en el Programa de Erradicación de plagas ISCAMEN, Mendoza, Argentina.	Teresa Boca, Mariel Vanin, Carlos Flores  Alejandro Asfennato
+* [Uso de R  e imágenes satelitales para la generación de modelos predictivos y caracterización de plantaciones forestales](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_38.pdf).	Matías Gaute, Teresa Boca, Hugo Fassola, Ernesto Andenmatten.
+* [Optimización de parámetros geoestadísticos para interpolación de lluvia para uso en el sector agropecuario](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_50.pdf).	Adrián Cal, Guadalupe Tiscornia.
+* [Integración de herramientas SIG, bases de datos, R espacial, Rmarkdown en la automatización de informes periódicos de la información en el Programa de Erradicación de plagas ISCAMEN, Mendoza, Argentina](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_44.pdf).	Teresa Boca, Mariel Vanin, Carlos Flores y Alejandro Asfennato.
 
 ### Sesión Modelos y aplicaciones
 
 * [Ventajas del análisis de redes para optimizar la vigilancia y control de Brucelosis bovina en la Argentina](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_26.pdf).	Alarcón Laura, Marcos Andrea, Grave Emiliano, Hard Jorge, Cipriotti Pablo
-* Análise de sensibilidade de respostas de contagem.	Alejandra Tapia Silva
+* [Análise de sensibilidade de respostas de contagem](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_43.pdf).	Alejandra Tapia Silva
 * [R en Temas de Industria](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_14.pdf).	Irma Noemi No, Andrés Redchuk, Luis Alberto Orlandi and Julián Eloy Tornillo
 
 
