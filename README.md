@@ -1,4 +1,4 @@
-# Tutoriales, Material de la Hackatón, Charlas Plenarias, Presentaciones y Pósters LatinR 2020
+# Tutoriales, Hackatón, Charlas Plenarias, Presentaciones y Pósters LatinR 2020
 
 1. [Presentaciones plenarias](#Presentaciones)
 2. [Contribuciones](#Contribuciones)
