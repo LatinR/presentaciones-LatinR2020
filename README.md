@@ -1,4 +1,4 @@
-# Tutoriales, Charlas Plenarias, Presentaciones y Pósters LatinR 2020
+# Tutoriales, Material de la Hackatón, Charlas Plenarias, Presentaciones y Pósters LatinR 2020
 
 1. [Presentaciones plenarias](#Presentaciones)
 2. [Contribuciones](#Contribuciones)
@@ -13,7 +13,6 @@ _I'll plan to talk about my experiences learning new data science skills on my o
 [Slides](https://alison.netlify.app/latinr-learn/#1) - [Video]()
 
 ### Blogueo con R Markdown por Maëlle Salmon
-
 
 [Slides](https://bloguearrr.netlify.app/intro/slides/#/) - [Video](https://youtu.be/UYvSv8StDa8?t=800) - [Material](https://bloguearrr.netlify.app/intro/starters/)
 
@@ -69,6 +68,22 @@ Nos preparamos para estas aventuras definiendo lo que queremos de un blog Rmd. A
 * [Análise de sensibilidade de respostas de contagem](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_43.pdf).	Alejandra Tapia Silva
 * [R en Temas de Industria](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/trabajos/LatinR2020_envio_14.pdf).	Irma Noemi No, Andrés Redchuk, Luis Alberto Orlandi and Julián Eloy Tornillo
 
+## ReproHack: Hackatón de reproducibilidad computacional
+
+#### Filminas
+* [¿Por qué es importante la reproducibilidad computacional?](https://www.canva.com/design/DAEIcz2YEuw/33f302lf7qmCTc8vyq1-Iw/view?utm_content=DAEIcz2YEuw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). Daniela Ballari. Universidad de Azuay, Ecuador.
+* [Consejos para reproducir un artículo científico](https://flor14.github.io/latinr-reprohack/index.html#1) (Filminas de ReproHack). Florencia D'Andrea. INTA-CONICET, Argentina.
+* [Contribuyendo al código libre en R](https://github.com/jcrodriguez1989/firstContributionsInR/). Juan Cruz Rodríguez. FAMAF-UNC, Argentina. 
+* [Cómo escribir manuscritos reproducibles](https://github.com/Pakillo/writing-reproducible-manuscripts/blob/master/slides.pdf). Francisco Rodríguez-Sánchez. Universidad de Sevilla, España. 
+* [Reproducibilidad en torno a una aplicación web](https://pablo-bernabeu.shinyapps.io/experimental-data-simulation/#section-home) Pablo Bernabeu. Universidad de Lancaster, UK.
+
+#### Videos de ReproHack
+
+Lista de Reproducción en [YouTube](https://www.youtube.com/watch?v=TKhV3w467RI&list=PL9-E3cL2KgKliN3DFBWfUAUNXco_NOAMQ&ab_channel=LatinR).
+
+Incluye los videos de las charlas más dos videos sobre la comunidad [ROpenSci](https://ropensci.org/)
+* Maëlle Salmon - Revisar paquetes para una mejor ciencia
+* Miguel Alvarez - La travesía de `taxlist` en ROpenSci
 
 ## Tutoriales
 
