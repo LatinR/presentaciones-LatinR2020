@@ -4,6 +4,7 @@
 2. [Contribuciones](#Contribuciones)
 3. [ReproHack](#ReproHack)
 4. [Tutoriales](#Tutoriales)
+5. [Actas](#Actas)
 
 ## Presentaciones
 
@@ -93,3 +94,6 @@ Incluye los videos de las charlas más dos videos sobre la comunidad [ROpenSci](
 
 En [esta página](https://github.com/LatinR/talleres-2020) se encuentra en listado de los nueve tutoriales que se dictaron en el marco de LatinR hosteados por diferentes capítulos de R-Ladies y Grupos de Usuarios de Latinoamérica.
 
+## Actas
+
+El [libro de actas](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/actas/Libro%20Actas%20LatinR%202020.pdf) presenta todos los trabajos contribuidos, aceptados y presentados durante la conferencia. Editoras: Yanina Bellini Saibene, Riva Quiroga y Natalia da Silva.
