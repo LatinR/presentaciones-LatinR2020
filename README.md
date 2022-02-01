@@ -96,4 +96,4 @@ En [esta página](https://github.com/LatinR/talleres-2020) se encuentra en lista
 
 ## Actas
 
-El [libro de actas](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/actas/Libro%20Actas%20LatinR%202020.pdf) presenta todos los trabajos contribuidos, aceptados y presentados durante la conferencia. Editoras: Yanina Bellini Saibene, Riva Quiroga y Natalia da Silva.
+El [libro de actas](https://github.com/LatinR/presentaciones-LatinR2020/blob/main/actas/Libro%20Actas%20LatinR%202020.pdf) presenta todos los trabajos contribuidos, aceptados y presentados durante la conferencia. Editoras: Yanina Bellini Saibene, Florencia D'Andrea, Riva Quiroga y Natalia da Silva.
